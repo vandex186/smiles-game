@@ -1,5 +1,15 @@
 {
-  "url": "https://vandex186.github.io/smiles-game/",
   "name": "Smiles Game",
-  "iconUrl": "https://vandex186.github.io/smiles-game/icon.png"
+  "short_name": "Smiles",
+  "start_url": "[https://vandex186.github.io/smiles-game/](https://vandex186.github.io/smiles-game/)",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "[https://vandex186.github.io/smiles-game/icon.png](https://vandex186.github.io/smiles-game/icon.png)",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
